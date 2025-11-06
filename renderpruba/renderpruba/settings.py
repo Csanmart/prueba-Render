@@ -66,7 +66,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'renderpruba.wsgi.application'
+WSGI_APPLICATION = 'apprender.wsgi.application'
 
 # --------------------------------------
 # DATABASE
